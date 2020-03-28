@@ -1,0 +1,88 @@
+body{
+      font-family:Arial, sans-serif;
+      font-size:15pt;
+      line-height:1.5em;
+      letter-spacing:0.07em;
+      margin:0;  
+      background-image:url("images/background.jpg");
+      background-attachment:fixed;	
+}
+
+a{
+      font-weight:bold;
+      text-decoration:none;
+      color:#00bfff;
+}
+
+a:hover{
+      background-color:#d0d0d0;
+}
+
+header {
+      background-color:white ;
+      text-align: center;
+      height: 70px;
+}
+
+nav{
+      float: left;
+      padding-left: 180px;
+      padding-top:15px;
+}
+
+div#nav-left{
+      float:right;
+      padding-left:20px;
+      padding-top:10px;
+}
+
+div#nav-right{
+      float:right;
+      padding-right:180px;
+      padding-top:25px;
+}
+
+section{
+      margin:20px 130px;
+}
+
+h2{
+      padding-top:30px;
+      padding-left:30px;
+}
+
+div#left{
+      background-color:#f0ffff;
+      padding-right:30px;
+      padding-left:10px;
+}
+
+div#right{
+      float:right;
+      padding-top:10px;
+      padding-right:20px;
+}
+
+p{
+      font-family:楷体,serif;
+}
+
+blockquote{
+      font-family:华文行楷,serif;
+      font-weight:bold;
+}
+
+form{
+      padding-right:30px;
+      padding-left:20px;
+      padding-bottom:12px;
+}
+
+textarea{
+      font-family: Arial, sans-serif;
+      font-size:15pt;
+      background-color:white;
+}
+
+
+        
